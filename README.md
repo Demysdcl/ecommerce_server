@@ -5,6 +5,7 @@ O Projeto está divido em 3
 3 - ecommerce_server
 
 Para a API foi utilizado:
+
 Java
 Gradle
 Netbeans
@@ -15,7 +16,8 @@ HSSQL como Banco
 para contruir basta abrir o netbeans com o plugin do gradle instalado e clicar em build/contruir
 Para executar é necessário ir no terminal, direcionar para a pasta raiz dist criado pelo netbeans e digitar 'java -jar ecommerceAPI.war'
 
-Para o SPA
+Para o SPA:
+
 Quasar Boilerplaite
 Vue Framework
 NPM
