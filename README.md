@@ -1,5 +1,7 @@
 # ecommerce_server
+
 O Projeto está divido em 3
+
 1 - ecommerceApi
 2 - ecommerce_spa
 3 - ecommerce_server
