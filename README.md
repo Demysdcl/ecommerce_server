@@ -28,7 +28,8 @@ AXIOS
 para construir é necessário ir na pasta raiz atraves do terminal e digitar 'npm install'
 O projeto roda no ecommerce_server
 
-Para o Server
+Para o Server:
+
 Node
 express
-
+para executar é necessário ir na pasta raiz atraves do terminal e digitar 'node server'
